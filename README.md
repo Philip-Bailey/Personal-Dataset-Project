@@ -13,7 +13,7 @@ To startout I went through and downloaded every NFL Teams data from sports-refer
 
 
 ## Visualization
-To begin the process I started out by comparing two teams to see if I could find any trends.
+To begin the process I started out by comparing two teams to see if I could find any trends. I compared things like strength of schedule to wins and losses and they show little to no correlation. Another comparison I made was wins against the team's OSRS and DSRS. OSRS is Offensive Simple Rating System which rates a teams offense compared to the average same with DSRS except it compares defense. It looked like there was some correlation but not it was still pretty spread. Another category that I looked at the wins against offensive yards rank with was very unhelpful.
 ![l vs off pt rk](https://github.com/Philip-Bailey/Personal-Dataset-Project/blob/master/L%20vs%20Off%20Pt%20Rk.png)
 ![w vs pt dif rk](https://github.com/Philip-Bailey/Personal-Dataset-Project/blob/master/W%20vs%20Pt%20Dif%20Rk.png)
 ![L vs SoS](https://github.com/Philip-Bailey/Personal-Dataset-Project/blob/master/L%20vs%20SoS.png)
@@ -23,10 +23,12 @@ To begin the process I started out by comparing two teams to see if I could find
 
 
 ## Analysis
+Eventually after sifting through all of the visualizations I found some that had some potential for predicting a teams success or success. It seems like a teams point differential is a great indicator of how well their season is going and where it can lead. This is visiable throught the Wins vs Point Differential. A point differential for a team is how many points they score subtracted by how many they allow. It makes sense that if you're scoring more than you're allowing in over the long run that you would do better. Another piece of data that might provide great insight about a team is their Simple Rating System (SRS) Score. This is a calculation of Margin of Victory (MoV) plus Strength of Schedule (SoS). When you compare a teams losses to their SRS there is strong trend that as your losses increase your SRS decreses. 
 
-![W vs Pt Dif](https://github.com/Philip-Bailey/Personal-Dataset-Project/blob/master/W%20vs%20Pt%20Dif%20NFL.png)
 ![W vs Pt Dif](https://github.com/Philip-Bailey/Personal-Dataset-Project/blob/master/W%20vs%20Pt%20Dif.png)
 
-![W vs Pt S](https://github.com/Philip-Bailey/Personal-Dataset-Project/blob/master/W%20vs%20Pts%20S.png)
 ![L vs SRS](https://github.com/Philip-Bailey/Personal-Dataset-Project/blob/master/L%20vs%20SRS.png)
 
+
+## Description of Code and Material 
+All of the data that I got off of the website has been included in the the github under their respective team names. The team that I processed and put all together is under the name NFL.csv. Also my notebook has also been included as Personal Dataset(1).ipynb.
