@@ -14,6 +14,7 @@ To start, I went through and downloaded every NFL Teams data from sports-referen
 
 ## Visualization
 To begin the process I started by comparing two teams to see if I could find any trends. I compared things like strength of schedule to wins and losses and they show little to no correlation. Another comparison I made was wins against the team's OSRS and DSRS. OSRS is Offensive Simple Rating System which rates a team's offense compared to the average same with DSRS except it compares defense. It looked like there was some correlation but not it was still pretty spread. Another category that I looked at the wins against offensive yards rank with was very unhelpful.
+
 ![l vs off pt rk](https://github.com/Philip-Bailey/Personal-Dataset-Project/blob/master/L%20vs%20Off%20Pt%20Rk.png)
 ![w vs pt dif rk](https://github.com/Philip-Bailey/Personal-Dataset-Project/blob/master/W%20vs%20Pt%20Dif%20Rk.png)
 ![L vs SoS](https://github.com/Philip-Bailey/Personal-Dataset-Project/blob/master/L%20vs%20SoS.png)
