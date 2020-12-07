@@ -16,11 +16,14 @@ To startout I went through and downloaded every NFL Teams data from sports-refer
 To begin the process I started out by comparing two teams to see if I could find any trends that I might want to explore with the large data set.
 ![l vs off pt rk](https://github.com/Philip-Bailey/Personal-Dataset-Project/blob/master/L%20vs%20Off%20Pt%20Rk.png)
 ![w vs pt dif rk](https://github.com/Philip-Bailey/Personal-Dataset-Project/blob/master/W%20vs%20Pt%20Dif%20Rk.png)
+
 After looking over some of the patterns in the data I decided I wanted to explore the trend between point differential and wins.
-![L vs SRS](https://github.com/Philip-Bailey/Personal-Dataset-Project/blob/master/L%20vs%20SRS.png)
+
 ![W vs Pt Dif](https://github.com/Philip-Bailey/Personal-Dataset-Project/blob/master/W%20vs%20Pt%20Dif%20NFL.png)
 ![W vs Pt Dif](https://github.com/Philip-Bailey/Personal-Dataset-Project/blob/master/W%20vs%20Pt%20Dif.png)
+
 ![W vs Pt S](https://github.com/Philip-Bailey/Personal-Dataset-Project/blob/master/W%20vs%20Pts%20S.png)
+![L vs SRS](https://github.com/Philip-Bailey/Personal-Dataset-Project/blob/master/L%20vs%20SRS.png)
 
 
 ## Analysis
