@@ -1,4 +1,4 @@
-# Personal-Dataset-Project
+# NFL_Performance_Trends
 
 ## Motivation
 I chose to analyze NFL data for my Personal Data Project because I enjoy watching the sport every year. There's something about seeing humans at their peak athleticism competing against each other that is so satisfying. For example DK Metcalf an absolute unit of a man standing in at 6'4" and weighing 229lbs. He is currently leading the NFL in receiving yards with over 1,000 yards at this point in the season and this is only his second season. Anyway, I decided to look at all the stats from every NFL team over the past 30 years.  The goal was to see if there was a pattern in the data that could reveal how well a team is going to perform.
